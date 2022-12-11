@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../my-website/blog"
+		},
+		{
+			"path": "../my-website/docs"
+		},
+		{
+			"path": "../my-website/node_modules"
+		},
+		{
+			"path": "../my-website/src"
+		},
+		{
+			"path": "../my-website/static"
+		}
+	]
+}
